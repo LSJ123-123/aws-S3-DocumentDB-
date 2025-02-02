@@ -22,8 +22,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 Please refer to package.json and package-lock.json.
 
 ## 클러스터(으)로 인증하는 데 필요한 Amazon DocumentDB 인증 기관(CA) 인증서 다운로드
-'''
+```
 wget https://truststore.pki.rds.amazonaws.com/global/global-bundle.pem
-'''
+```
 
 => Access is not possible without the corresponding certificate.
