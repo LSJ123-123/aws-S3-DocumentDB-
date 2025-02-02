@@ -15,3 +15,8 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+=> DB integration is only possible within AWS EC2, so only the web interface can be viewed.
+
+## install library
+
+Please refer to package.json and package-lock.json.
